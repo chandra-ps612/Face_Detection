@@ -1,6 +1,6 @@
 # Face_Detection
 
-This particular project is based on 'Haar Cascade Algorithm', also known as 'Voila-Jones Algorithm' to 
+This particular project is based on ```Haar Cascade Algorithm```, also known as ```Voila-Jones Algorithm``` to 
 detect faces.
 
 In OpenCV, There are several trained  Haar Cascade models which are saved as XML files.
